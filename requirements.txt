@@ -1,0 +1,16 @@
+# core
+pandas
+streamlit
+
+# features
+streamlit-ace==0.1.1 	# code editor: https://github.com/okld/streamlit-ace
+duckdb==0.7.0  	        # execute sql on pandas df
+
+pandas-profiling
+ydata-profiling
+streamlit-pandas-profiling
+plotly
+scikit-learn
+plotly_express
+openai
+anthropic
